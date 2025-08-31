@@ -1,0 +1,7 @@
+{
+  "name": "aram-hostpital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
